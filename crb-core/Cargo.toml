@@ -1,6 +1,6 @@
 [package]
-name = "crb"
-description = "CRB | async actor framework"
+name = "crb-core"
+description = "CRB | async actor framework | core"
 version.workspace = true
 edition.workspace = true
 license.workspace = true
