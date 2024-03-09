@@ -6,6 +6,7 @@ edition.workspace = true
 license.workspace = true
 
 [dependencies]
+derive_more.workspace = true
 futures.workspace = true
 thiserror.workspace = true
 

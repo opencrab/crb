@@ -11,5 +11,6 @@ edition = "2021"
 license = "MIT"
 
 [workspace.dependencies]
+derive_more = "0.99.17"
 futures = "0.3.30"
 thiserror = "1.0.57"
