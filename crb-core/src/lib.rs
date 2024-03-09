@@ -15,3 +15,5 @@ pub use std_runtime::*;
 pub mod wasm_runtime;
 #[cfg(target_arch = "wasm32")]
 pub use wasm_runtime::*;
+#[cfg(target_arch = "wasm32")]
+mod just_watch;
